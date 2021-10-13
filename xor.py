@@ -1,5 +1,5 @@
 from dense import Dense
-from tanh import Tanh
+from activations import Tanh
 from losses import mse, mse_prime
 
 import numpy as np
